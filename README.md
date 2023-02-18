@@ -1,7 +1,8 @@
 <h1 align="center">
     <img src="view.jpg">
+    <img src="view-mobile.jpg">
 </h1>
-<p align="center">Login Page</p>
+<p align="center">Login Page Responsive</p>
 
 <h4 align="center"> 
 	- Status: ✅ -
@@ -11,7 +12,8 @@
 ---
 
 <p>
-Tela de login utilizando html e css. Excercitando o uso de flex e estilização com gradiente. 
+Tela de login responsiva utilizando html e css.
+Exercitando o uso de Flex, @media e gradiente na estilização do projeto.
 </p>
 
 ### 🔌 Como rodar o projeto | Local
