@@ -18,7 +18,7 @@ Exercitando o uso de Flex, @media e gradiente na estilização do projeto.
 
 ### 🔌 Como rodar o projeto | Local
 ---
-Caso queira rodar o projeto local, basta clonar o projeto e abrir o arquivo index.html no navegador.
+Caso queira rodar o projeto local, basta clonar e abrir o arquivo index.html no navegador.
 
 
 
